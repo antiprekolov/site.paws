@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    <link rel="stylesheet" href="static/style/style.css">
+</head>
+
+
+<body>
+    <button type="button" class="block"><img src="C:\Users\nas48\Downloads\Без названия53_20241211175415.png"
+        alt="back" width:="70" ; height="50" ;></button>
+        <div class="account">
+            <button type="button" class="accountb"><img src="C:\Users\nas48\Downloads\Без названия59.png" alt="ACCOUNT"
+                width="50" height="50"><p>Aккаунт</p></button>
+        </div>
+        <div class="best">
+            <h2>ВЫ ДЕЛАЕТЕ БЛАГОЕ ДЕЛО</h2>
+        </div>
+    <div class="conteiner1">
+        <button type="button" class="bn">Услуги</button>
+        <button type="button" class="bn">Волонтёрство</button>
+        <button type="button" class="bn">Сотрудники</button>
+    </div>
+    <div class="conteiner2">
+        <button type="button" class="search">НАЙТИ ПИТОМЦА</button>
+    </div>
+    <div class="conteiner3">
+        <button type="button" class="bn1">Сотрудничество</button>
+        <button type="button" class="bn1">Зоотовары</button>
+    </div>
+</body>
+
+</html>
