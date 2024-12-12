@@ -28,6 +28,7 @@ body {
 .block {
     background-color: #CBB89D;
     border: 0;
+    cursor: pointer;
 }
 
 .block2{
